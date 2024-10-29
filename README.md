@@ -10,7 +10,7 @@
 
 
 # CODE PROGRAM WEBSITE DINAMIS
-![image](https://github.com/user-attachments/assets/cae0d7b8-f1aa-4865-b57f-47cdb75b1c6e)
+![image](https://github.com/user-attachments/assets/efe01194-f17f-448e-b49e-b9746f7415af)
 ```
 <!doctype html>
 <html lang="en">
@@ -174,6 +174,10 @@
 </body>
 
 </html>
+```
+![image](https://github.com/user-attachments/assets/cae0d7b8-f1aa-4865-b57f-47cdb75b1c6e)
+```
+<h1>home</h1>
 ```
 ![image](https://github.com/user-attachments/assets/9a5b8d9e-7f33-4e2b-8aed-95c07bafcbbf)
 ```
