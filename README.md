@@ -11,3 +11,7 @@
 | **Dosen Pengampu** | Eko Budiarto S.kom, M.kom |
 
 # Selamat datang di proyek web **Website Dinamis**!
+
+# Home
+![image](https://github.com/user-attachments/assets/b64c0043-5ae3-4930-a7e8-3a2b413beff4)
+
