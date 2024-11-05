@@ -82,7 +82,7 @@ Halaman **home.php** ini adalah halaman web yang dirancang untuk menampilkan pro
    - Ikon kontak memberikan efek interaktif dengan animasi berputar dan membesar saat di-hover, serta efek angkat pada seluruh informasi kontak, meningkatkan pengalaman pengguna yang menyenangkan.
 
 # Halaman Datatables
-![Screenshot 2024-11-04 163332](https://github.com/user-attachments/assets/b4a3e82e-c95d-46a9-865a-44bf7c91a4ee)
+![image](https://github.com/user-attachments/assets/22b2c938-b6ac-47a8-9458-cd637881eea7)
 ### 📊 Fitur Utama
 #### 1. **Desain Tabel yang Menarik**
    - Tabel menggunakan kelas Bootstrap untuk menciptakan tampilan yang bersih dan profesional. Dengan gaya `table-striped`, setiap baris memiliki latar belakang bergantian, memudahkan pembacaan data.
